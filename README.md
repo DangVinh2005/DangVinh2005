@@ -1,3 +1,8 @@
+<!-- 🎌 Fancy Cyber-Anime Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/YXpvm2N/banner-anime-cyberpunk.gif" width="100%" alt="Cyber Anime Banner"/>
+</p>
+
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643517239/32774/raichu.gif?1643517239" width="35" />
   Hi there, I'm <strong>Vinh Đặng</strong> 👋  
@@ -85,6 +90,7 @@ When I’m not working on blue team operations, I’m usually:
 </p>
 
 ---
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/84/eb/b2/84ebb2d1c356fb46f029a6949e5f9ae4.gif" width="120"/>
 </p>
