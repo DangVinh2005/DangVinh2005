@@ -1,6 +1,6 @@
 <!-- 🎌 Fancy Cyber-Anime Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/6a/df/11/6adf1122e9bfbdbb1e0a8b9b93d44f74.gif" width="100%" alt="Cyberpunk Hacker Banner"/>
+  <img src="https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif" width="100%" alt="Cyberpunk Hacker Banner"/>
 </p>
 
 <h1 align="center">
