@@ -1,6 +1,9 @@
-<!-- 🎌 Fancy Cyber-Anime Banner -->
+<!-- 🎌 Fancy Cyber-Anime Red Team Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif" width="100%" alt="Cyberpunk Hacker Banner"/>
+  <img src="https://i.pinimg.com/originals/6a/df/11/6adf1122e9bfbdbb1e0a8b9b93d44f74.gif" 
+       width="100%" 
+       alt="Cyberpunk Hacker Banner" 
+       title="Welcome to my Red Team cyber lair!"/>
 </p>
 
 <h1 align="center">
@@ -9,7 +12,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0c/93/89/0c9389ef6f923e70d2e3f7f1c92ec1e2.gif" width="130" alt="Chibi Hacker"/>
+  <img src="https://i.pinimg.com/originals/0c/93/89/0c9389ef6f923e70d2e3f7f1c92ec1e2.gif" 
+       width="130" 
+       alt="Chibi Hacker" 
+       title="Vinh's little AI hacker assistant 👾"/>
 </p>
 
 <p align="center">
@@ -64,21 +70,15 @@ When not hacking, I’m usually:
 ## 🎀 Anime & Chibi Customization
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0a/2e/41/0a2e41dff2833c0f9fa4dd08a979a5a2.gif" width="180" alt="Chibi Hacker Girl"/>
+  <img src="https://i.pinimg.com/originals/0a/2e/41/0a2e41dff2833c0f9fa4dd08a979a5a2.gif" 
+       width="180" 
+       alt="Chibi Hacker Girl" 
+       title="My cyber chibi companion 🌸"/>
 </p>
 
 > 🌸 *“Code can be elegant, even when it breaks things beautifully.”*  
 
-You can customize this section! Replace the image URL below with your favorite chibi/anime character:
-
-<p align="center">
-  <img src="YOUR_CHIBI_GIF_URL_HERE" width="180" />
-</p>
-
-💡 Suggestions:  
-- 🧢 Chibi hacker Miku / Cyberpunk girl  
-- 🦊 Chibi fox hacker (kitsune style)  
-- 💫 Raichu, Eevee, or any anime mascot you like  
+You can customize this section! Just replace the GIF URL with your favorite chibi/anime character.
 
 ---
 
@@ -106,7 +106,7 @@ You can customize this section! Replace the image URL below with your favorite c
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ff/dc/5d/ffdc5d524594de70c9274b0b2b6b53c8.gif" width="130" alt="Chibi Goodbye"/>
+  <img src="https://i.pinimg.com/originals/ff/dc/5d/ffdc5d524594de70c9274b0b2b6b53c8.gif" width="130" alt="Chibi Goodbye" title="Goodbye, stay stealthy!"/>
 </p>
 
 ⭐ Thanks for visiting my cyber lair — stay stealthy, stay creative. ⚡
