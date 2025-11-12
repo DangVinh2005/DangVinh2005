@@ -1,6 +1,6 @@
 <!-- 🎌 Fancy Cyber-Anime Red Team Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/6a/df/11/6adf1122e9bfbdbb1e0a8b9b93d44f74.gif" 
+  <img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" 
        width="100%" 
        alt="Cyberpunk Hacker Banner" 
        title="Welcome to my Red Team cyber lair!"/>
@@ -8,11 +8,11 @@
 
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643517239/32774/raichu.gif?1643517239" width="35" />
-  Hey, I'm <strong>Vinh Đặng</strong> 👾  
+  Hey, I'm <strong>Đặng Vinh</strong> 👾  
 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0c/93/89/0c9389ef6f923e70d2e3f7f1c92ec1e2.gif" 
+  <img src="https://i.pinimg.com/originals/80/b6/81/80b6810535bcff91ae3689c5da95cd50.gif" 
        width="130" 
        alt="Chibi Hacker" 
        title="Vinh's little AI hacker assistant 👾"/>
@@ -70,7 +70,7 @@ When not hacking, I’m usually:
 ## 🎀 Anime & Chibi Customization
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0a/2e/41/0a2e41dff2833c0f9fa4dd08a979a5a2.gif" 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JsbWlxZGNpZXpjbXJ0cWdsaG1kNTYwZ25qbXAxZjhwc3ltNzR3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8PBqNlzr8VrqHmYkR3/giphy.gif" 
        width="180" 
        alt="Chibi Hacker Girl" 
        title="My cyber chibi companion 🌸"/>
@@ -78,9 +78,6 @@ When not hacking, I’m usually:
 
 > 🌸 *“Code can be elegant, even when it breaks things beautifully.”*  
 
-You can customize this section! Just replace the GIF URL with your favorite chibi/anime character.
-
----
 
 ## 📊 GitHub Stats
 
