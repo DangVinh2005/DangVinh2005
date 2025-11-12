@@ -54,26 +54,18 @@ When I’m not working on blue team operations, I’m usually:
 ## 🎀 Anime & Chibi Touches
 
 <p align="center">
-  <img src="https://i.imgur.com/VfS8YxF.gif" width="180" alt="Hatsune Miku typing">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNrdzY0bWM3OGc5cnJ3NzVlMWVldWVhNnZxcjR3b3NiNXRwdjF4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.gif" width="180" alt="Hatsune Miku typing">
 </p>
 
 > 💫 *Sometimes my code is guarded by a little chibi AI friend.*  
-
-You can easily replace the chibi character above with:
-- 🩵 **Hatsune Miku** → `https://i.imgur.com/VfS8YxF.gif`  
-- 💜 **Raichu** → `https://emojis.slackmojis.com/emojis/images/1643517239/32774/raichu.gif?1643517239`  
-- 💖 **Hayasaka Ai** → `https://i.imgur.com/tjUgu9O.gif`  
-- 💚 **Custom character** → add your own GIF link!  
-
-> To change it, just replace the image URL in this section — feel free to add multiple GIFs for random rotation.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhdangg&layout=compact&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinhdangg&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangVinh2005&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DangVinh2005&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -81,30 +73,18 @@ You can easily replace the chibi character above with:
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinhdang" target="_blank">
+  <a href="www.linkedin.com/in/dangvinh05" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:vinhdang@example.com" target="_blank">
+  <a href="mailto:dqv1507@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/vinhdangg" target="_blank">
+  <a href="https://github.com/DangVinh2005" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
-
-## 🔧 Customization Tips
-
-| Section | What to Change | Example |
-|----------|----------------|----------|
-| 💬 Name & Role | Your name or title | `Vinh Dang` → `Nguyen Viet Tin` |
-| 🩷 Anime Chibi | Replace GIF URL | Change Miku → Raichu |
-| 🧠 Quote | Add your motto | `"Stay curious, stay secure."` |
-| 🌈 Theme | Change GitHub stats theme | e.g., `tokyonight`, `radical`, `merko` |
-
----
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/84/eb/b2/84ebb2d1c356fb46f029a6949e5f9ae4.gif" width="120"/>
 </p>
