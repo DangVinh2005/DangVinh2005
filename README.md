@@ -1,33 +1,35 @@
 <!-- 🎌 Fancy Cyber-Anime Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif" width="100%" alt="Cyber Anime Banner"/>
+  <img src="https://i.pinimg.com/originals/6a/df/11/6adf1122e9bfbdbb1e0a8b9b93d44f74.gif" width="100%" alt="Cyberpunk Hacker Banner"/>
 </p>
 
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643517239/32774/raichu.gif?1643517239" width="35" />
-  Hi there, I'm <strong>Vinh Đặng</strong> 👋  
+  Hey, I'm <strong>Vinh Đặng</strong> 👾  
 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/4f/2f/1e/4f2f1e9b45b5c908c4a5f2d1b03b3815.gif" width="120" alt="Chibi waving"/>
+  <img src="https://i.pinimg.com/originals/0c/93/89/0c9389ef6f923e70d2e3f7f1c92ec1e2.gif" width="130" alt="Chibi Hacker"/>
 </p>
 
 <p align="center">
-  <em>Cybersecurity Enthusiast • SOC Analyst (in training) • Developer & Anime Lover 💻💙</em>
+  <em>Red Team Operator • Offensive Security Enthusiast • CTF Player • Anime & Chibi Lover 💀✨</em>
 </p>
 
 ---
 
-## 🌸 About Me
+## 🦾 About Me
 
-I'm **Vinh Dang**, a cybersecurity enthusiast with a strong passion for **threat detection**, **incident response**, and **malware analysis**.  
-When I’m not working on blue team operations, I’m usually:
-- 🕵️ Solving **CTF challenges**
-- ⚙️ Writing small tools in **Python** and **Bash**
-- 💫 Listening to **Avicii** while coding
-- 🎌 Watching **anime** or designing **chibi AI characters**
+I'm **Vinh Dang**, a passionate **Red Teamer** focused on offensive operations, adversary emulation, and exploit development.  
+I enjoy researching **post-exploitation**, **Active Directory attacks**, and **building tools** for offensive security.  
 
-> 💭 *"Technology meets creativity — protect, code, and dream."*
+When not hacking, I’m usually:
+- 💣 Playing **CTFs**
+- 🧠 Writing **Python/Bash payloads**
+- 🎧 Listening to **Avicii** while coding exploits
+- 🎌 Creating **anime-style AI characters**
+
+> ⚔️ *"If you want to understand defenders, first think like an attacker."*
 
 ---
 
@@ -35,42 +37,56 @@ When I’m not working on blue team operations, I’m usually:
 
 ### 💻 Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-2E8B57?style=for-the-badge&logo=linux&logoColor=white)
 
-### 🧑‍💻 Programming & Scripting
+### 💀 Red Team & Pentesting Tools
+![Metasploit](https://img.shields.io/badge/Metasploit-272822?style=for-the-badge&logo=metasploit&logoColor=white)
+![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-990000?style=for-the-badge)
+![Sliver](https://img.shields.io/badge/Sliver-708090?style=for-the-badge)
+![Impacket](https://img.shields.io/badge/Impacket-20232A?style=for-the-badge)
+![BloodHound](https://img.shields.io/badge/BloodHound-8B0000?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![Responder](https://img.shields.io/badge/Responder-FF4500?style=for-the-badge)
+![Empire](https://img.shields.io/badge/Empire-000000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🧠 Scripting & Development
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### 🛠️ Tools & Technologies
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
-![TheHive](https://img.shields.io/badge/TheHive-F2C038?style=for-the-badge)
-![MISP](https://img.shields.io/badge/MISP-5C2D91?style=for-the-badge)
-![Zeek](https://img.shields.io/badge/Zeek-8C489F?style=for-the-badge)
-![Suricata](https://img.shields.io/badge/Suricata-FF6B6B?style=for-the-badge&logo=suricata&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🎀 Anime & Chibi Touches
+## 🎀 Anime & Chibi Customization
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNrdzY0bWM3OGc5cnJ3NzVlMWVldWVhNnZxcjR3b3NiNXRwdjF4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.gif" width="180" alt="Hatsune Miku typing">
+  <img src="https://i.pinimg.com/originals/0a/2e/41/0a2e41dff2833c0f9fa4dd08a979a5a2.gif" width="180" alt="Chibi Hacker Girl"/>
 </p>
 
-> 💫 *Sometimes my code is guarded by a little chibi AI friend.*  
+> 🌸 *“Code can be elegant, even when it breaks things beautifully.”*  
+
+You can customize this section! Replace the image URL below with your favorite chibi/anime character:
+
+<p align="center">
+  <img src="YOUR_CHIBI_GIF_URL_HERE" width="180" />
+</p>
+
+💡 Suggestions:  
+- 🧢 Chibi hacker Miku / Cyberpunk girl  
+- 🦊 Chibi fox hacker (kitsune style)  
+- 💫 Raichu, Eevee, or any anime mascot you like  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangVinh2005&layout=compact&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DangVinh2005&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangVinh2005&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -89,10 +105,8 @@ When I’m not working on blue team operations, I’m usually:
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/84/eb/b2/84ebb2d1c356fb46f029a6949e5f9ae4.gif" width="120"/>
+  <img src="https://i.pinimg.com/originals/ff/dc/5d/ffdc5d524594de70c9274b0b2b6b53c8.gif" width="130" alt="Chibi Goodbye"/>
 </p>
 
-⭐ *Thanks for visiting! Stay safe, stay inspired, and keep learning!* 💙  
+⭐ Thanks for visiting my cyber lair — stay stealthy, stay creative. ⚡
