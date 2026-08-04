@@ -1,13 +1,11 @@
-<!-- ========================================================= -->
-<!--              SYSTEM ENGINEER | GITHUB PROFILE             -->
-<!-- ========================================================= -->
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="./assets/neon-banner.svg" width="100%">
+    <img src="./assets/neon-banner.svg" width="100%">
 </p>
 
 <h1 align="center">
-Hi 👋 I'm Vinh Dang
+Vinh Dang
 </h1>
 
 <p align="center">
@@ -15,135 +13,161 @@ System Administrator • System Engineer • Infrastructure Enthusiast
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Linux-00E5FF?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Automation-7DF9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Monitoring-00FFD5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Infrastructure-FF2BDC?style=for-the-badge"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Building+Reliable+Infrastructure;Automating+Everything+Possible;Monitoring+Everything;Learning+Every+Day" />
 </p>
-
----
-
-# About Me
-
-```text
-> Booting Operator Profile...
-
-Name        : Vinh Dang
-Role        : IT Helpdesk Intern
-Focus       : System Administration
-Status      : Learning Infrastructure Engineering
-Location    : Vietnam
-
-Mission:
-Build reliable systems.
-Automate repetitive work.
-Monitor everything.
-Keep services running.
-```
-
----
-
-# Current Focus
-
-- Linux Administration
-- Windows Server
-- Microsoft 365
-- System Monitoring
-- Infrastructure Automation
-- Virtualization
-- Networking
-- Cloud Fundamentals
-- Scripting
-
----
-
-# Tech Stack
-
-### Operating Systems
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux,windows"/>
-
-</p>
-
-### Infrastructure
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,bash,powershell,nginx"/>
-
-</p>
-
-### Programming
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,bash"/>
-
-</p>
-
-### DevOps & Version Control
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github"/>
-
-</p>
-
----
-
-# Things I Enjoy Building
-
-- Infrastructure Lab
-- Monitoring Platform
-- Automation Scripts
-- Server Deployment
-- Internal Tools
-- Documentation
-- Runbooks
-- Log Collection
-- Incident Response Workflow
-
----
-
-# Current Learning
-
-```yaml
-Learning:
-
-  Linux:
-    - System Administration
-    - Networking
-    - Performance Tuning
-
-  Microsoft:
-    - Microsoft 365
-    - Exchange Online
-    - Intune
-    - Entra ID
-
-  Infrastructure:
-    - Docker
-    - Virtualization
-    - Backup
-    - Monitoring
-
-  Automation:
-    - Python
-    - Bash
-    - PowerShell
-```
-
----
-
-# GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/System_Engineering-00eaff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-00ff88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Observability-ff2bdc?style=for-the-badge"/>
+
+</p>
+
+---
+
+# whoami
+
+```bash
+$ whoami
+
+Name        : Vinh Dang
+Role        : IT Helpdesk Intern
+Goal        : System Engineer
+Location    : Vietnam
+
+Current Mission
+───────────────────────────────────────────────
+
+✓ Build reliable infrastructure
+
+✓ Automate repetitive tasks
+
+✓ Improve monitoring
+
+✓ Learn cloud technologies
+
+✓ Document everything
+```
+
+---
+
+# Tech Arsenal
+
+<table>
+
+<tr>
+
+<td valign="top" width="50%">
+
+### Infrastructure
+
+- Linux
+- Windows Server
+- Microsoft 365
+- Docker
+- XCP-ng
+- VMware
+- Networking
+
+</td>
+
+<td valign="top" width="50%">
+
+### Monitoring
+
+- Grafana
+- Loki
+- ELK
+- Zabbix
+- Promtail
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Automation
+
+- Python
+- Bash
+- PowerShell
+
+</td>
+
+<td>
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- IntelliJ
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Current Roadmap
+
+```text
+Linux Administration     ████████████░░░░░ 75%
+
+Networking               █████████░░░░░░░ 60%
+
+Docker                   ████████░░░░░░░░ 55%
+
+Cloud                    █████░░░░░░░░░░░ 35%
+
+Automation               ███████████░░░░░ 70%
+
+Monitoring               ████████████░░░░ 80%
+```
+
+---
+
+# Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| ELK Stack | Centralized logging & monitoring |
+| XCP-ng Lab | Virtualization environment |
+| Runbook Collection | Infrastructure documentation |
+| Automation Scripts | Python, Bash & PowerShell |
+| Infrastructure Lab | Windows Server + Linux |
+
+---
+
+# System Status
+
+```text
+╔══════════════════════════════════════════════╗
+║ SYSTEM STATUS                               ║
+╠══════════════════════════════════════════════╣
+║ Linux             ███████████████████ ONLINE║
+║ Windows Server    ███████████████████ ONLINE║
+║ Monitoring        ███████████████████ ACTIVE║
+║ Automation        ███████████████████ ACTIVE║
+║ Documentation     ███████████████████ ACTIVE║
+║ Learning          ███████████████████ ACTIVE║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
@@ -157,7 +181,7 @@ Learning:
 
 ---
 
-# Activity Graph
+# Contribution Graph
 
 <p align="center">
 
@@ -167,11 +191,11 @@ Learning:
 
 ---
 
-# Visitor Counter
+# GitHub Trophies
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&column=4"/>
 
 </p>
 
@@ -181,16 +205,12 @@ Learning:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/dangvinh05">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-
+<a href="mailto:dqv1507@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="mailto:dqv1507@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-
+<a href="https://www.linkedin.com/in/dangvinh05">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
@@ -199,13 +219,18 @@ Learning:
 
 <p align="center">
 
-```text
-[ SYSTEM STATUS ]
-
-Infrastructure : ONLINE
-Automation     : ACTIVE
-Monitoring     : RUNNING
-Learning       : NEVER STOPPED
-```
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet">
 
 </p>
+
+---
+
+```text
+> uptime
+
+Operator        : Vinh Dang
+Infrastructure  : Stable
+Monitoring      : Running
+Automation      : Enabled
+Coffee          : Required ☕
+```
