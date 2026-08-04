@@ -110,7 +110,3 @@
     <img src="https://img.shields.io/badge/Email-7df9ff?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="./assets/neon-banner.svg" width="100%" />
-</p>
