@@ -33,7 +33,6 @@ System Administrator • System Engineer • Infrastructure Enthusiast
 $ whoami
 
 Name        : Vinh Dang
-Role        : IT Helpdesk Intern
 Goal        : System Engineer
 Location    : Vietnam
 
