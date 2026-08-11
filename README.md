@@ -87,19 +87,6 @@
 
 ---
 
-## `> stats.render()`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snack-root&show_icons=true&theme=cyberpunk&hide_border=true&title_color=39ff14&icon_color=00ffe0&text_color=7df9ff&bg_color=0d1117" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snack-root&layout=compact&theme=cyberpunk&hide_border=true&title_color=39ff14&text_color=7df9ff&bg_color=0d1117" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snack-root&theme=dark&hide_border=true&background=0d1117&ring=39ff14&fire=ff2bdc&currStreakLabel=00ffe0" width="60%"/>
-</p>
-
----
-
 ## `> contact.connect()`
 
 <p align="center">
